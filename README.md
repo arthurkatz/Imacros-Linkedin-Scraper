@@ -7,5 +7,5 @@ How to use it :
 * find the best google search for linkedin with http://recruitin.net/ and paste it in "/Datasources/google keywords.txt"
 
 Next steps :
-Add captcha automatisation
-VoilaNorbert API or anyother mail provider api
+* Add captcha automatisation
+* VoilaNorbert API or anyother mail provider api
